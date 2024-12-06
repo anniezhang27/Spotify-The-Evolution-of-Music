@@ -1,5 +1,3 @@
-# Spotify-The-Evolution-of-Music
-
 # **Spotify: The Evolution of Music**  
 *Exploratory Data Science Project – DSC Expo 2023*
 
